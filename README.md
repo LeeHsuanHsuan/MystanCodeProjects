@@ -1,7 +1,7 @@
 # MystanCodeProjects
 
 This repository holds my programming projects done during the period of stanCode course.
-Watch the *[demo video] here! (https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
+Watch the *[demo video here!] (https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
 
 ## Project Source Codes:
 * [boggle_game](https://github.com/LeeHsuanHsuan/MystanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
